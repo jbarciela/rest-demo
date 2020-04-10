@@ -9,17 +9,17 @@ A minimal Spring Boot demo project with Unit Tests and Code Coverage support and
 * add Unit Tests
 * add JaCoCo to build.gradle
 * add git
-** edit "~/.gitconfig" with correct name and email
-** https://git-scm.com/docs/gittutorial
-** git init
-** git add .
-** git status
-** git commit -m "initial commit"
-** git status
-** git log
+  * edit "~/.gitconfig" with correct name and email
+  * https://git-scm.com/docs/gittutorial
+  * git init
+  * git add .
+  * git status
+  * git commit -m "initial commit"
+  * git status
+  * git log
 * add github
-** git remote add origin https://github.com/jbarciela/rest-demo.git
-** git push origin master
+  * git remote add origin https://github.com/jbarciela/rest-demo.git
+  * git push origin master
 
 
 ### Reference Documentation
