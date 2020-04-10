@@ -3,13 +3,13 @@
 A minimal Spring Boot demo project with Unit Tests and Code Coverage support and references to learn more.
 
 ### Steps Followed ###
-* generate
-* import in Eclipse as Gradle project
-* add Controller
-* add Unit Tests
-* add JaCoCo to build.gradle
-* add git
-  * edit "~/.gitconfig" with correct name and email
+* Generate project skeleton at https://start.spring.io/ , "Spring Web" dependency added.
+* Import in Eclipse as Gradle project
+* Add Controller
+* Add Unit Tests
+* Add JaCoCo to build.gradle
+* Add git
+  * Edit "~/.gitconfig" with correct name and email
   * https://git-scm.com/docs/gittutorial
   * git init
   * git add .
@@ -17,7 +17,7 @@ A minimal Spring Boot demo project with Unit Tests and Code Coverage support and
   * git commit -m "initial commit"
   * git status
   * git log
-* add github
+* Add github
   * git remote add origin https://github.com/jbarciela/rest-demo.git
   * git push origin master
 
