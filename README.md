@@ -21,7 +21,10 @@ A minimal Spring Boot demo project with Unit Tests and Code Coverage support and
   * git remote add origin https://github.com/jbarciela/rest-demo.git
   * git push origin master
 
-
+### Running with Gradle
+```bash
+project-root> ./gradlew bootRun
+```
 ### Reference Documentation
 For further reference, please consider the following sections:
 

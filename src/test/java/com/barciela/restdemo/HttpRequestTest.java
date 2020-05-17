@@ -26,7 +26,9 @@ public class HttpRequestTest {
 	@LocalServerPort
 	private int port;
 
-  // https://www.tutorialspoint.com/spring_boot/spring_boot_rest_template.htm1
+	//
+	// https://www.tutorialspoint.com/spring_boot/spring_boot_rest_template.htm1
+	//
 	@Autowired
 	private TestRestTemplate restTemplate;
 

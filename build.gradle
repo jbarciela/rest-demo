@@ -25,21 +25,21 @@ jacoco {
 }
 
 jacocoTestReport {
-	reports {
-		xml.enabled false
+  reports {
+    xml.enabled false
     csv.enabled false
     html.enabled true
   }
 }
 
 jacocoTestCoverageVerification {
-   violationRules {
-	 	rule {
-      limit {
-      	minimum = 0.5
-      }
+    violationRules {
+        rule {
+            limit {
+                minimum = 0.5
+            }
+        }
     }
-  }
 }
 check.dependsOn jacocoTestCoverageVerification
 
