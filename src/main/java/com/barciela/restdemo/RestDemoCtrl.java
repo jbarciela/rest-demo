@@ -1,12 +1,15 @@
 package com.barciela.restdemo;
 
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * Friendly REST Controller
+ */
 @RestController
 public class RestDemoCtrl {
 
-	@RequestMapping("/")
+	@GetMapping("/")
 	public String index() {
 		return "Greetings from Spring Boot!";
 	}

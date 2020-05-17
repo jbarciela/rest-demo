@@ -20,6 +20,10 @@ A minimal Spring Boot demo project with Unit Tests and Code Coverage support and
 * Add github
   * git remote add origin https://github.com/jbarciela/rest-demo.git
   * git push origin master
+* Add spring-boot-starter-actuator and spring-boot-starter-security dependencies
+* Add actuator and security config to application.properties
+* Add SecurityConfiguration and DetailsEndpoint
+* Add javadoc generation to build.gradle
 
 ### Running with Gradle
 ```bash
@@ -51,3 +55,7 @@ These additional references should also help you:
 * https://medium.com/@alexprut/integrate-jacoco-in-a-java-project-687d8d9678dc
 * https://www.baeldung.com/jacoco
 * https://reflectoring.io/jacoco/
+* [Securing a Web Application](https://spring.io/guides/gs/securing-web/)
+* [Monitoring with Spring Boot Actuator](https://stackabuse.com/monitoring-with-spring-boot-actuator/)
+* [Introduction to Javadoc](https://www.baeldung.com/javadoc)
+* [A Guide to CSRF Protection in Spring Security](https://www.baeldung.com/spring-security-csrf)
