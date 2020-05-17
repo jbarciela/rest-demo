@@ -1,6 +1,6 @@
 # Getting Started
 
-A minimal Spring Boot demo project with Unit Tests and Code Coverage support and references to learn more.
+A Spring Boot REST demo project with Unit Tests, Code Coverage, Actuator, Security, JavaDoc and references to learn more.
 
 ### Steps Followed ###
 * Generate project skeleton at https://start.spring.io/ , "Spring Web" dependency added.
