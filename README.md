@@ -2,7 +2,7 @@
 
 A Dockerized Spring Boot REST demo project with Unit Tests, Code Coverage, Actuator, Security, JavaDoc and references to learn more.
 
-### Steps Followed
+### Steps followed
 - Generate project skeleton at https://start.spring.io/ , "Spring Web" dependency added.
 - Import in Eclipse as Gradle project
 - Add Controller
@@ -38,7 +38,7 @@ A Dockerized Spring Boot REST demo project with Unit Tests, Code Coverage, Actua
 ```bash
 project-root> ./gradlew bootRun
 ```
-### Reference Documentation and guides
+### Reference documentation and guides
 
 - Markdown
   - [Markdown Github Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
