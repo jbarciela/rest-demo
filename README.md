@@ -1,4 +1,4 @@
-# Getting Started
+# What's in here
 
 A Dockerized Spring Boot REST demo project with Unit Tests, Code Coverage, Actuator, Security, JavaDoc and references to learn more.
 
